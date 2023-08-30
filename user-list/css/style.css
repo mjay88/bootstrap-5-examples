@@ -1,0 +1,7 @@
+/*if the browser is 767px wide or narrower, apply this style*/
+@media (max-width: 767px) {
+	.user-menu {
+		justify-content: center !important;
+		margin-top: 20px;
+	}
+}
